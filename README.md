@@ -60,24 +60,13 @@
 
 <b>Statistic</b>
 <br>
-<img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=alanslengkoan&color=blue" />
 <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 03 August 2025 - To: 10 August 2025
-
-PHP             7 hrs 59 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   72.03 %
-Other           2 hrs 40 mins   ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.10 %
-CSS             19 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.89 %
-Apache Config   4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.72 %
-SQL             1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.25 %
-```
-
 <!--END_SECTION:waka-->
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alanslengkoan&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanslengkoan&layout=compact&theme=dark" />
 </p>
