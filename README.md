@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
-<b>🌐 Open Source Contributions</b>
+<b>Open Source Contributions</b>
 <br>
 <sub><i>(Selected merged Pull Requests in external open-source projects that I do not own)</i></sub>
 <table>
