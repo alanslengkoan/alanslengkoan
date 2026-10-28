@@ -58,23 +58,51 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
+<b>🌐 Open Source Contributions</b>
+<br>
+<sub><i>(Selected merged Pull Requests in external open-source projects that I do not own)</i></sub>
+<table>
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Project Description</th>
+            <th align="center">Merged PR</th>
+            <th>Impact / Focus</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/t8y2/dbx"><b>t8y2/dbx</b></a></td>
+            <td>Cross-platform database client supporting 100+ databases (Desktop, Docker, CLI, AI assistant &amp; MCP Server)</td>
+            <td align="center">
+                <a href="https://github.com/t8y2/dbx/pull/13427">PR #13427</a>
+                <br>
+                <img src="https://img.shields.io/badge/Merged-8957e5?logo=git-merge&logoColor=white" alt="Merged" />
+            </td>
+            <td><code>feat(import)</code>: Added restoring Navicat <code>.nb3</code> backups directly from the database Import dialog</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/t8y2/dbx"><b>t8y2/dbx</b></a></td>
+            <td>Cross-platform database client supporting 100+ databases</td>
+            <td align="center">
+                <a href="https://github.com/t8y2/dbx/pull/13524">PR #13524</a>
+                <br>
+                <img src="https://img.shields.io/badge/Merged-8957e5?logo=git-merge&logoColor=white" alt="Merged" />
+            </td>
+            <td><code>fix(schema-diff)</code>: Treated MySQL <code>RESTRICT</code>/<code>NO ACTION</code> foreign-key rules as equal and read live metadata to prevent false-positive diffs</td>
+        </tr>
+    </tbody>
+</table>
+<p align="right">
+    <a href="https://github.com/search?q=author%3Aalanslengkoan+type%3Apr+is%3Amerged+repo%3At8y2%2Fdbx&type=pullrequests">View all merged PRs on GitHub →</a>
+</p>
+
 <b>Statistic</b>
 <br>
 <img src="https://komarev.com/ghpvc/?username=alanslengkoan&color=blue" />
 <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 20 October 2026 - To: 27 October 2026
-
-PHP                        8 hrs 14 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.17 %
-Markdown                   4 hrs 23 mins         ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.88 %
-Other                      2 hrs 36 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.39 %
-TypeScript                 1 hr 41 mins          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.04 %
-Bash                       1 hr 16 mins          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.04 %
-```
-
 <!--END_SECTION:waka-->
 
 <p>
