@@ -103,20 +103,4 @@
 <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 20 October 2026 - To: 27 October 2026
-
-PHP                        8 hrs 14 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.17 %
-Markdown                   4 hrs 23 mins         ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.88 %
-Other                      2 hrs 36 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.39 %
-TypeScript                 1 hr 41 mins          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.04 %
-Bash                       1 hr 16 mins          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.04 %
-```
-
 <!--END_SECTION:waka-->
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=alanslengkoan&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanslengkoan&layout=compact&theme=dark" />
-</p>
