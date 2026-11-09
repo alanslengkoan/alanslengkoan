@@ -91,6 +91,16 @@
             </td>
             <td><code>fix(schema-diff)</code>: Treated MySQL <code>RESTRICT</code>/<code>NO ACTION</code> foreign-key rules as equal and read live metadata to prevent false-positive diffs</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/t8y2/dbx"><b>t8y2/dbx</b></a></td>
+            <td>Cross-platform database client supporting 100+ databases</td>
+            <td align="center">
+                <a href="https://github.com/t8y2/dbx/pull/14000">PR #14000</a>
+                <br>
+                <img src="https://img.shields.io/badge/Merged-8957e5?logo=git-merge&logoColor=white" alt="Merged" />
+            </td>
+            <td><code>feat(objects)</code>: Added a Navicat-style <code>Foreign Key Checks</code> option (Default / Enable / Disable) to MySQL batch Truncate / Empty / Drop, running on a pinned session and restoring the previous value afterwards</td>
+        </tr>
     </tbody>
 </table>
 <p align="right">
@@ -103,15 +113,4 @@
 <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-PHP           11 hrs 42 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.20 %
-Markdown      7 hrs 12 mins         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.11 %
-Other         5 hrs 8 mins          ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.21 %
-TypeScript    2 hrs 46 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.31 %
-Text          55 mins               ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.09 %
-```
-
 <!--END_SECTION:waka-->
